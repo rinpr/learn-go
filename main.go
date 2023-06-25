@@ -11,7 +11,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello World!")
+	fmt.Println("Hello Java_Rin!")
 }
 
 func interfaceUsage() {
